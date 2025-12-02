@@ -1,1 +1,1 @@
-console.log('Aura frontend loaded');
+document.addEventListener('DOMContentLoaded',()=>{document.getElementById('scan').addEventListener('click',()=>alert('Aura scan activated'));});
